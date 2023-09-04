@@ -9,7 +9,6 @@
 
 - 👨‍💻 All of my projects are available at [https://anandpandey-portfolio.vercel.app/](https://anandpandey-portfolio.vercel.app/)
 
-- 📄 Know about my past projects [https://anandpandey-portfolio.vercel.app/projects](https://anandpandey-portfolio.vercel.app/projects)
 
 - 💬 Ask me about **Next.js, Node.js, Bootstrap, JavaScript, C/C++, Git, HTML/CSS, MongoDB, React.js, Web Development, Express.js**
 
