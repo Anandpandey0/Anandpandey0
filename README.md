@@ -5,9 +5,7 @@
 
 - 🌱 I’m currently learning **Full stack Java Development**
 
-- 👯 I’m looking to collaborate on [Amazon Clone](https://amazonclonebyanand.vercel.app/)
-
-- 👯 I’m looking to collaborate on [Airbnb Clone](https://airbnb-clone-sigma-teal.vercel.app/)
+- 👯 My recent project was [Amazon Clone](https://amazonclonebyanand.vercel.app/)
 
 - 👨‍💻 All of my projects are available at [https://anandpandey-portfolio.vercel.app/](https://anandpandey-portfolio.vercel.app/)
 
