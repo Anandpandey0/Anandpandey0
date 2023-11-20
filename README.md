@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Google Meet Clone**
 
-- 🌱 I’m currently learning **Full stack Java Development**
+- 🌱 I’m currently learning **Full stack Angular Development**
 
 - 👯 My recent project was [Amazon Clone](https://amazonclonebyanand.vercel.app/)
 
