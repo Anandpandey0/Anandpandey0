@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Next.js, Node.js, Bootstrap, JavaScript, C/C++, Git, HTML/CSS, MongoDB, React.js, Web Development, Express.js**
 
-- 📫 How to reach me **anand.pandey1052@outlook.com**
+- 📫 How to reach me **anand.pandey10520@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
